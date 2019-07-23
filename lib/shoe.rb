@@ -9,5 +9,10 @@ class Shoe
   
   def cobble(condition)
     puts "Your shoe is as good as new!"
+    #@condition = condition
+    #if @condition == "old"
+      
+   #end
+    #@condition = "new"
   end
 end
